@@ -31,3 +31,4 @@ sudo mv /tmp/autopsy-4.16.0 /opt/
 
 sudo ln -s /opt/autopsy-4.16.0/bin/autopsy /usr/local/bin/autopsy
 
+rm /tmp/sleuthkit-java_4.10.0-1_amd64.deb /tmp/autopsy-4.16.0.zip
