@@ -3,6 +3,9 @@
 # Remove Sleuthkit 
 sudo apt remove --auto-remove sleuthkit -y
 
+# Install photorec
+sudo apt install testdisk -y
+
 # Install BellSoft Java 8 JRE and JavaFX 8 distribution and set JAVA_HOME 
 wget -q -O - https://download.bell-sw.com/pki/GPG-KEY-bellsoft | sudo apt-key add -
 echo "deb [arch=amd64] https://apt.bell-sw.com/ stable main" | sudo tee /etc/apt/sources.list.d/bellsoft.list
