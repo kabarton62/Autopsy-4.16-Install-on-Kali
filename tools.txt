@@ -2,7 +2,7 @@ autopsy
 md5deep
 foremost
 scalpel
-readpst
+pst-utils
 galleta
 volatility
 guymager
